@@ -1,4 +1,4 @@
-# Disable-AMD-GPU-MacBook-Pro-2011
+# disable-amd-gpu-macbookpro-2011
 Guide to disable broken AMD GPU for MacBook Pro 2011
 
 Look, when you read "[TAB]" it means "press TAB key"
